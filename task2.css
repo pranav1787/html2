@@ -1,0 +1,39 @@
+#h1 
+{
+    color: white;
+    background-color: black;
+    font-style: initial;
+    text-align: center;
+    padding: 50px;
+    border: 20px solid rgb(218, 29, 29);
+    
+}
+#h2
+ {
+    text-align: center;
+    font-size: 30px;
+    background-color: grey;
+    padding: 20px;
+    color: aliceblue;
+
+}
+.p1
+{
+    text-align: center;
+    background-color: cadetblue;
+    font-style: initial;
+    
+}
+.p2
+{
+    text-align:left;
+    font-style: unset;
+    color:rgb(15, 15, 15);
+    background-color: darkgrey;
+
+}
+body 
+{
+
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L2EuanBn.jpg)
+}

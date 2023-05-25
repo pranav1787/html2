@@ -1,0 +1,34 @@
+#heading1
+ {
+    color: blue;
+    font-size: 25px;
+    text-align: justify;
+}
+#para1
+ {
+    color: aliceblue;
+    letter-spacing: 3px;
+    word-spacing: 6px;
+    border-top: 5px solid red;
+    border-right: 5px double green;
+    border-left: 5px solid orange;
+    border-bottom: 5px dotted cyan;
+
+}
+body
+ {
+    background-image: url("https://wallpapers.com/images/featured/has6vy47k75d0bzs.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+.para2
+ {
+    color: beige;
+    word-spacing: 2px;
+    letter-spacing: 3px;
+    font-style: oblique;
+    border: 4px solid black;
+
+}

@@ -1,0 +1,33 @@
+/* h1{
+    background-color: dimgrey;
+    text-align:left;
+    padding: 10px;
+    color: aliceblue;
+    
+} */
+p
+{
+    color: rgb(125, 18, 212);
+    text-justify:kashida;
+    border: 3px dashed black;
+    padding: 20px;
+    margin: 50px;
+}
+
+#heading1 {
+    color: blue;
+    border: 2px solid brown;
+}
+.para1 {
+    background-color: black;
+    color: azure;
+    border: 2px dashed white; 
+    font-size: larger;
+    font-style: italic;
+}
+body{
+    background-image: url('https://images.pexels.com/photos/235986/pexels-photo-235986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-repeat: no-repeat;
+    background-position: 10px;
+    
+}
